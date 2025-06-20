@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Bluewave
+description: "Bluewave is a clean, responsive Jekyll theme with a cool blue palette designed for blogs, portfolios, and documentation. It blends minimal design with subtle wave-inspired accents for a calm, professional feel."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
